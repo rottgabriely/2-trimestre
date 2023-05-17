@@ -1,0 +1,8 @@
+:root{--cordefundo:#417fb3;
+--cor2:#100706;}
+
+body{background-color: var(--cordefundo);}
+
+h1{background-color: var(--cordefundo); 
+color:#554285;}
+
