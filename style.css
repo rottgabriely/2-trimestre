@@ -1,7 +1,13 @@
-:root{--cordefundo:#417fb3;
---cor2:#100706;}
+@import url(./header.css);
 
-body{background-color: var(--cordefundo);}
+:root{--cordefundo:#EBECEE;
+    --branco:#FFFFFF;}
+    
+    body{background-color: var(--cordefundo);}
+
+
+
+
 
 
 
