@@ -23,3 +23,11 @@ display: inline-block;
     padding: lem;
 
 }
+
+.lista-menu{
+    display: none;
+}
+
+.conteiner__botao:checked ~ .lista-menu{
+    display: block;
+} 
